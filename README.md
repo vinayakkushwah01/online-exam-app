@@ -26,7 +26,7 @@ The **Online Examination System** is a web application that enables administrato
    - View their scores after completing an exam.
 
 ## Screenshots
-- Login Page
+- Login Page <br>
   ![001](Images/001.png)
   <br>
   <br>
@@ -36,54 +36,54 @@ The **Online Examination System** is a web application that enables administrato
   ![001](Images/003.png)
   <br>
   <br>
-- Admin Registration
+- Admin Registration <br>
   ![001](Images/004.png)
   <br>
   <br>
   ![001](Images/005.png)
   <br>
   <br>
-- Registration Successful
+- Registration Successful <br>
   ![001](Images/006.png)
   <br>
   <br>
-- Admin Dashboard
+- Admin Dashboard <br>
   ![001](Images/007.png)
   <br>
   <br>
-- Select Manage Exam
+- Select Manage Exam <br>
   ![001](Images/008.png)
   <br>
   <br>
-- Manage Exam
+- Manage Exam <br>
   ![001](Images/009.png)
   <br>
   <br>
-- Adding New Exam
+- Adding New Exam <br>
   ![001](Images/010.png)
   <br>
   <br>
-- New Exam Added Successfully Add Questions Now
+- New Exam Added Successfully Add Questions Now <br>
   ![001](Images/011.png)
   <br>
   <br>
-- Add New Question
+- Add New Question <br>
   ![001](Images/012.png)
   <br>
   <br>
-- Adding New Question
+- Adding New Question <br>
   ![001](Images/013.png)
   <br>
   <br>
-- Added All Questions
+- Added All Questions <br>
   ![001](Images/014.png)
   <br>
   <br>
-- Logout
+- Logout <br>
   ![001](Images/015.png)
   <br>
   <br>
-- Student Registration
+- Student Registration <br>
   ![001](Images/016.png)
   <br>
   <br>
@@ -93,23 +93,23 @@ The **Online Examination System** is a web application that enables administrato
   ![001](Images/018.png)
   <br>
   <br>
-- Available Exams For Students
+- Available Exams For Students <br>
   ![001](Images/019.png)
   <br>
   <br>
-- Exam Page
+- Exam Page <br>
   ![001](Images/020.png)
   <br>
   <br>
-- Submitting the Exam
+- Submitting the Exam <br>
   ![001](Images/021.png)
   <br>
   <br>
-- Student's All Scores till date
+- Student's All Scores till date <br>
   ![001](Images/022.png)
   <br>
   <br>
-- Admin's Exam wise Scores Page
+- Admin's Exam wise Scores Page <br>
   ![001](Images/023.png)
   <br>
   <br>

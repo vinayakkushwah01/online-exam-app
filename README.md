@@ -190,7 +190,7 @@ OnlineExaminationSystem/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/OnlineExaminationSystem.git
+   git clone https://github.com/arshadpatel/online-exam-app.git
 2. **Import the project into your IDE** (e.g., IntelliJ IDEA, Eclipse).
 
 3. **Set up the MySQL Database:**
@@ -199,7 +199,7 @@ OnlineExaminationSystem/
    - Run the SQL scripts located to create tables and populate initial data if required.
 
    ```bash
-   CREATE DATABASE online_examination_system;
+   CREATE DATABASE onlineexamapp;
 
    CREATE TABLE users (
        user_id INT PRIMARY KEY AUTO_INCREMENT,
@@ -251,7 +251,7 @@ OnlineExaminationSystem/
 
 ## **How to Contribute**
 
-  Contributions are highly appreciated! Before you start, please check the [Issues](https://github.com/your-username/OnlineExaminationSystem/issues) section of this repository.
+  Contributions are highly appreciated! Before you start, please check the [Issues](https://github.com/arshadpatel/online-exam-app/issues) section of this repository.
 
 1. **Visit the Issues Section**: 
    - Check the existing issues to see if there's anything you'd like to work on.

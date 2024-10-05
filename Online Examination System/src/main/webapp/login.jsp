@@ -8,6 +8,17 @@
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+	<script>
+		function togglePassword() {
+			var passwordField = document.getElementById("password");
+			var checkbox = document.getElementById("showPassword");
+			if (passwordField.type === "password") {
+				passwordField.type = "text";
+			} else {
+				passwordField.type = "password";
+			}
+		}
+	</script>
 	<div class="container">
 		<h2>Online Examination System</h2>
 		<form action="LoginServlet" method="post">
@@ -15,6 +26,9 @@
 				id="username" name="username" required> <label
 				for="password">Password:</label> <input type="password"
 				id="password" name="password" required>
+				<div>
+					<input type="checkbox" id="showPassword" onclick="togglePassword()" style="margin-bottom: 20px;"> Show Password
+				</div>
 
 			<button type="submit">Login</button>
 			<p>

@@ -35,8 +35,9 @@
 				Welcome,
 				<%=username%>!
 			</h3>
-			<p>Select an option from the navigation to manage exams,
-				questions, or view student scores.</p>
+				<p style="text-align: center;">
+					Select an option from the navigation to manage exams,questions, or view student scores.
+				</p>
 		</div>
 		<%
 		} else {
